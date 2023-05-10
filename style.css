@@ -52,7 +52,7 @@ body{
 .hero{
     /* background-image: url(../Hotel_Website/Assets/pexels-chan-walrus-958545.jpg); */
     background-image:
-            linear-gradient(to top, rgba(3, 3, 3, 0.5),rgba(19, 19, 20, 0.5)), url(../Hotel_Website/Assets/pexels-chan-walrus-958545.jpg);
+            linear-gradient(to top, rgba(3, 3, 3, 0.5),rgba(19, 19, 20, 0.5)), url(https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg);
     height: 90vh;
     /* object-fit: cover; */
     background-size: 100% 100%;
